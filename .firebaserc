@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-angular-a60ce": {
+      "hosting": {
+        "login": [
+          "login-angular-a60ce"
+        ]
+      }
+    }
+  }
+}
